@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334881347614",
+    "project_id": "presencia-19246",
+    "storage_bucket": "presencia-19246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334881347614:android:3f14812871a7596e76b60f",
+        "android_client_info": {
+          "package_name": "com.example.presencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334881347614-2ch50htpllutjnnemb14misnfgsj0ana.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.presencia",
+            "certificate_hash": "273483ef89ab740ebf5acd7b6cab1963b087ad93"
+          }
+        },
+        {
+          "client_id": "334881347614-1jrans0eqkhol8k4nkeo4gip5jlgvhni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB42_AvZL5-6MXwW-5Et1s5QIR18lbH18I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334881347614-1jrans0eqkhol8k4nkeo4gip5jlgvhni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
